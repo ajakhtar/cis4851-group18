@@ -1,0 +1,6 @@
+datasets/
+checkpoints/
+env/
+*.tar
+*.pth
+*.log
